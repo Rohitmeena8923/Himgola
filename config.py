@@ -7,7 +7,7 @@ API_HASH = getenv("API_HASH", "b70bb1d45a1d05236671d4cc615e40f9")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 OWNER_ID = int(getenv("OWNER_ID", "6414266397"))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6727160308").split()))
-MONGO_URL = getenv("MONGO_DB", "mongodb+srv://creatorar30:fdINvMPYXYwUyHdq@cluster0.pbaou.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = getenv("MONGO_DB", "mongodb+srv://Rohitmeena64:Ajmeer234590577@cluster0.mae8oyn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 CHANNEL_ID = int(getenv("CHANNEL_ID", "-2446676469"))
 PREMIUM_LOGS = int(getenv("PREMIUM_LOGS", "-2446676469"))
